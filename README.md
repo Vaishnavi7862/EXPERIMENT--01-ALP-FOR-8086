@@ -1,7 +1,7 @@
 # EXPERIMENT--01-ALP-FOR-8086
 Name : vaishnavi.D
 Roll no : 212224220118
-Date of experiment : 31-01-2025
+Date of experiment : 31-01-2026
 
 
 ## Aim: To Write and execute ALP on fundamental arithmetic and logical operations
